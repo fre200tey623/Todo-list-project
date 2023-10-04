@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "q10vLMnlIVlVzFv+OxAIWyRfIejoQTfVEzrRUJFRFjRKoOXeHqVXWQM1fJUa5lCSiPgtoWQ/sdJiA2ueAz5Zbg==",
+  "success": true,
+  "projectFilePath": "G:\\Documentos\\GitHub\\todo-list-project\\back-end\\ToDoList\\ToDoList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andre Lima\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Andre Lima\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Andre Lima\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Andre Lima\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Andre Lima\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Andre Lima\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
