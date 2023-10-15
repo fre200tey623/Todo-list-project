@@ -1,0 +1,30 @@
+.main{
+  width: 100%;
+  max-width: 500px;
+}
+
+.container{
+  display: flex;
+  gap: 10px;
+}
+
+.conteudo{
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.titulo{
+  display: flex;
+  justify-content: center;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.placeholder{
+  width: 100%;
+}
+.pesquisa{
+  display: flex;
+  justify-content: center;
+}
