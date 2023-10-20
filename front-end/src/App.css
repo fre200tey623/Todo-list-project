@@ -1,6 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+body{
+  font-family: 'Poppins';
+  color: #343a40;
+  margin: 0;
+}
 .main{
   width: 100%;
   max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  gap:15px;
 }
 
 .container{
@@ -9,9 +20,8 @@
 }
 
 .conteudo{
-  display: flex;
-  flex-direction: column;
-  gap: 15px;
+  max-height: 80vh;
+  overflow-y: auto;
 }
 
 .titulo{
@@ -27,4 +37,96 @@
 .pesquisa{
   display: flex;
   justify-content: center;
+}
+
+.buttonDelete{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ff2c2c;
+  border: none;
+  border-radius: 5px;
+}
+
+.buttonDelete :hover{
+  background-color: #b62020;
+}
+
+.buttonConcluido{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #41d64e;
+  border: none;
+  border-radius: 5px;
+}
+.buttonNaoConcluido{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #4a4e4e;
+  border: none;
+  border-radius: 5px;
+}
+
+.buttonEdit :hover{
+  background-color: #2d9235;
+}
+
+.card{
+  display: flex;
+  justify-content: space-between;
+}
+
+.icon{
+  color: white; 
+  padding: 4px 0px;
+  font-size: 1rem;
+
+}
+
+.buttons{
+  display: flex;
+  gap: 10px;
+}
+
+ul{
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.tarefaConluida{
+  text-decoration: line-through;
+}
+
+.dia{
+  font-size: xxx-large;
+  font-weight: 600;
+}
+
+.dataAtual{
+  display: flex;
+  height: 100%;
+  gap: 5px;
+}
+
+.blocoMesAno{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-weight: 500;
+}
+
+/* *{
+  border: 2px solid red;
+} */
+
+.cabecalho{
+  display: flex;
+  align-items: center;
+  gap: 10%;
+  width: 100%;
+  background-color: #8BC6EC;
+  background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
 }
