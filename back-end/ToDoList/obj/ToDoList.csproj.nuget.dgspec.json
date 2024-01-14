@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Documentos\\GitHub\\todo-list-project\\back-end\\ToDoList\\ToDoList.csproj": {}
+    "C:\\Users\\andre\\OneDrive\\Documents\\Github\\Todo-list-project\\back-end\\ToDoList\\ToDoList.csproj": {}
   },
   "projects": {
-    "G:\\Documentos\\GitHub\\todo-list-project\\back-end\\ToDoList\\ToDoList.csproj": {
+    "C:\\Users\\andre\\OneDrive\\Documents\\Github\\Todo-list-project\\back-end\\ToDoList\\ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Documentos\\GitHub\\todo-list-project\\back-end\\ToDoList\\ToDoList.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Documents\\Github\\Todo-list-project\\back-end\\ToDoList\\ToDoList.csproj",
         "projectName": "ToDoList",
-        "projectPath": "G:\\Documentos\\GitHub\\todo-list-project\\back-end\\ToDoList\\ToDoList.csproj",
-        "packagesPath": "C:\\Users\\Andre Lima\\.nuget\\packages\\",
-        "outputPath": "G:\\Documentos\\GitHub\\todo-list-project\\back-end\\ToDoList\\obj\\",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Documents\\Github\\Todo-list-project\\back-end\\ToDoList\\ToDoList.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive\\Documents\\Github\\Todo-list-project\\back-end\\ToDoList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Andre Lima\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

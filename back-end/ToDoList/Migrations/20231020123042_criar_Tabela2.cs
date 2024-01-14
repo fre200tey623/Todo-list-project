@@ -5,12 +5,11 @@
 namespace ToDoList.Migrations
 {
     /// <inheritdoc />
-    public partial class alterarId : Migration
+    public partial class criar_Tabela2 : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
-            migrationBuilder.Sql("ALTER TABLE to_do_list ALTER COLUMN AtividadesId INT IDENTITY(1,1)");
 
         }
 
